@@ -1,0 +1,2 @@
+# Sodium-potassium pump
+The sodium-potassium pump is an active energy-consuming transport mechanism. Without it the ion concentrations would slowly even out and the [[Resting potential]] would reach zero. The pump is a membrane protein that in one cycle transports three Na+ ions out of the Cell and two K+ [[Ions]] into the Cell. The energy required for this process is delivered by [[ATP]] (Adenosine-triphosphate) which will be transformed into [[ADP]] (Adenosin-diphosphate) in the process.

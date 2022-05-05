@@ -1,0 +1,2 @@
+# Axon 
+An [[Axon]] is a long, slender projection of nerve cells, or [[Neurons]], in vertebrates, that **typically conducts electrical impulses known as [[Action potentials]] away from the nerve cell body**. The function of the [[Axon]] is **to transmit information to different [[Neurons]], muscles, and glands**.

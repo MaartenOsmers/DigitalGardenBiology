@@ -1,0 +1,2 @@
+# Ecosystems
+An [[Ecosystem]] is  geographic area where [[plants]], [[animals]], and other [[organisms]] as well as weather and landscape, work together to form a bubble of life. Ecosystems contain [[biotic factor]] or living, parts, as well as [[abiotic factor]], or nonliving parts.

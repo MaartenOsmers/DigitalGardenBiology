@@ -1,0 +1,2 @@
+# Cell membrane
+The **cell membrane** is a biological membrane **at separates the interior of all [[Cells]] from the outside environment (the extracellular space) and protects the cell from its environment**. The cell membrane **controls the movement of substances in and out of cells and organelles**, **being selectively permeable to [[Ions]] and organic molecules**. **In addition, cell membranes are involved in a variety of cellular processes** such as cell adhesion, **ion conductivity and cell signalling**.

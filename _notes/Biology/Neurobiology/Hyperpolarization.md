@@ -1,0 +1,2 @@
+# Hyperpolarization
+Hyperpolarization is a change in a cell's [[Membrane potential]] that makes it more negative. It is the opposite of a [[Depolarization]]. It inhibits [[action potential]]s by increasing the stimulus required to move the membrane potential to the action potential threshold. 

@@ -1,0 +1,2 @@
+# ADP 
+Adenosine diphosphate (ADP), is an important organic compound in [[metabolism]] and is essential to the flow of [[energy]] in living cells. ... Energy transfer used by all living things is a result of dephosphorylation of [[ATP]] by enzymes known as ATPases.
