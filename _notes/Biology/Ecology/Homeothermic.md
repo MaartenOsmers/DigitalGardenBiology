@@ -1,2 +1,0 @@
-# Homeothermic
-Are [[animals]] that maintain a stable internal [[body temperature ]] regardless of external influence ([[abiotic factors]] such as temperature). They achieve this by altering their [[metabolic rate]].

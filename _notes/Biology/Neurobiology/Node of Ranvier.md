@@ -1,2 +1,0 @@
-#  Node of Ranvier
-Nodes of Ranvier **occur along a myelinated [[Axon]] where the axolemma is exposed to the extracellular space**. Nodes of Ranvier are **uninsulated and highly enriched in [[Ion channels]], allowing them to participate in the exchange of [[Ions]] required to regenerate the [[Action potential]]**. Nerve conduction in myelinated axons is referred to as **[[Saltatory conduction]]** due to the manner in which the action potential seems to "jump" from one node to the next along the [[Axon]]. **This results in faster conduction of the action potential**. 
