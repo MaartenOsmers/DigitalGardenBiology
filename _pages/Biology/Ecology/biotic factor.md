@@ -1,2 +1,0 @@
-# Biotic factor 
-A [[biotic factor]] is the living component in an [[Ecosystem]]. Biotic factors are the living components, such as [[bacteria]], [[birds]], and any other living things present in an ecosystem.

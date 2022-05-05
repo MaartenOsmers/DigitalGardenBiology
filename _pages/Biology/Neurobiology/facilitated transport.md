@@ -1,2 +1,0 @@
-# Facilitated transport 
-Facilitated transport is **one way of moving those materials without expending [[cellular energy]]**. In facilitated transport, materials are moving down a [[concentration gradient]]. In other words, they are moving from an area of high concentration to low concentration, as in passive [[diffusion]].
