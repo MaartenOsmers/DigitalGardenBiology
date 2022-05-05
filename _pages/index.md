@@ -2,7 +2,7 @@
 layout: page
 title: Home
 id: home
-permalink: /
+permalink: /Abitur 2022
 ---
 
 # Welcome! 🌱
