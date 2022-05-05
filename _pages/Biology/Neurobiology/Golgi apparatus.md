@@ -1,0 +1,2 @@
+# Golgi apparatus
+The [[Golgi apparatus]] **packages proteins into membrane-bound vesicles inside the cell before the vesicles are sent to their destination**. It is of particular importance **in processing proteins, containing a set of glycosylation enzymes that attach various sugar monomers to proteins as the proteins move through the apparatus**.

@@ -1,0 +1,2 @@
+# Dendrites
+Dendrites are branched protoplasmic extensions of a nerve cell **that propagate the electrochemical stimulation received from other neural cells to the  [[Soma]], of the [[Neuron]]** from which the dendrites project. **Electrical stimulation is transmitted onto dendrites by upstream neurons** (usually via their [[Axons]]) **via [[Synapses]] which are located at various points throughout the dendritic tree**.

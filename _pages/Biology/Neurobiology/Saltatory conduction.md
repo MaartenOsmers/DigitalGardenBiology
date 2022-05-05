@@ -1,0 +1,2 @@
+# Saltatory conduction
+Saltatory conduction i**s the propagation of Action potentials ([[Action potential]]) along myelinated axons ([[Myelin sheath]]) from one [[Node of Ranvier]] to the next node, increasing the conduction velocity of action potentials**. The uninsulated nodes of Ranvier are the only places along the [[Axon]] **where [[Ions]] are exchanged across the axon membrane ([[Cell membrane]]) , regenerating the action potential between regions of the axon that are insulated by myelin**, unlike electrical conduction in a simple circuit. 

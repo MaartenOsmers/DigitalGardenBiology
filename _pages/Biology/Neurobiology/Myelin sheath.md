@@ -1,0 +1,2 @@
+# Myelin sheath  
+Myelin is a lipid-rich fatty substance **that sorrounds the nerve cell [[Axon]] to insulate them and increase the rate at which electrical impulses which are called [[Action potential]], are passed along the axon**.

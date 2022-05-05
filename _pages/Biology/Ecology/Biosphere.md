@@ -1,0 +1,2 @@
+# Biosphere
+The [[Biosphere]], also known as the ecosphere, is the worldwide sum of all [[ecosystems]]. It can also be termed the zone of life on Earth. The biosphere is virtually a closed system with regard to [[matter]], with minimal inputs and outputs.

@@ -1,0 +1,2 @@
+# Neurotransmitters
+A [[Neurotransmitter]] is a signaling molecule secreted by a neuron ([[Neurons]]) to affect another cell across a [[Synapse]]. The cell receiving the signal, any main body part, or target cell, may be another neuron, but could also be a gland or muscle cell.

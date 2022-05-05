@@ -1,0 +1,2 @@
+# Abiotic factors
+An [[abiotic factor]] is a non-living part of an [[Ecosystem]] that shapes its [[environment]]. In a terrestrial [[Ecosystem]], examples might include [[temperature]], [[light]], and [[water]]. In a [[marine ecosystem]], abiotic factors would include [[salinity]] and [[ocean currents]].
