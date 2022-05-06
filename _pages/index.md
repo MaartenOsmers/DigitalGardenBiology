@@ -19,7 +19,7 @@ permalink: /
    <span style="font-weight: bold">[[Material cycles in ecosystems]]</span>
 </p>
 
-p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;"> Infos about this 
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;"> Infos about this 
    <span style="font-weight: bold">[[Temperature and water]]</span>
 </p>
 
