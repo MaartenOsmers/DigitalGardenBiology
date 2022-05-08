@@ -27,6 +27,36 @@ permalink: /
    <span style="font-weight: bold">[[Populations as ecofactors]]</span>
 </p>
 
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;"> Infos about this 
+   <span style="font-weight: bold">[[Interconnections of neurons the reflex]]</span>
+</p>
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;"> Infos about this 
+   <span style="font-weight: bold">[[Receptor cells & channel specificity]]</span>
+</p>
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;"> Infos about this 
+   <span style="font-weight: bold">[[Signalling Amplitude and Frequency Coding]]</span>
+</p>
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;"> Infos about this 
+   <span style="font-weight: bold">[[The nervous system CNS & PNS]]</span>
+</p>
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;"> Infos about this 
+   <span style="font-weight: bold">[[The endocrine system]]</span>
+</p>
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;"> Infos about this 
+   <span style="font-weight: bold">[[How neurons work]]</span>
+</p>
+
+
+
+
+
+
+
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   For demotivation look at (more or less old) <span style="font-weight: bold">[[Ecology2]]</span>
 </p>
