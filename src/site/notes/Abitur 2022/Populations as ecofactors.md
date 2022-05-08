@@ -4,6 +4,7 @@
 
 # Populations as ecofactors
 
+
 I**mportant concepts and terms:**
 - Understanding biotic factors on the organisational level of populations
 - growth of populations – exponential/logistic growth, regulation of population size
