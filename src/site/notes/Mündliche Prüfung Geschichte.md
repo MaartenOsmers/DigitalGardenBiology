@@ -157,7 +157,7 @@
 - Sanktionen
 - Militärische Einsätze oder humanitäre Hilfe.
 
-**Menschenreechte:**
+**Menschenrechte:**
 - Besteht aus 30 Artikeln, beschlossen von den Vereinten Nationen.
 - Die Allgemeine Erklärung der Menschenrechte soll den größtmöglichen Schutz aller Menschen im Hier und Jetzt gewährleisten.
 
@@ -214,7 +214,25 @@
 	- Es beudeutete das Ende des Kalten Krieges. 
 
 
-
+## Prager Frühling
+- Der Prager Frühling dauerte vom 5. Jan. 1968 bis zum 21. Aug. 1968 an.
+- War die einzige Reformbewegung die von einer kommunistischen Staatspartei angeleitet wurde. Daher sehr bedeutsamt.
+- Es war die Hoffnung einer ganzen Nation auf ein freieres und gerechteres Leben. Diese Hoffnungen haben sowjetische Panzer zerstört.
+- Der Prager Frühling findet seinen ursprung nach dem Tod Stalins 1953 mit der Zeit der Entstalinisierung. 
+- In der ČSSR (Tschechoslovakei) war Antonin Novotni der Vorgänger von Alexander Dubček. Novotni galt als konservativ. Als 1967 Studenten für Liberalisierung demonstrieren beendete er  ddiese gewalltvoll. 
+- Die ČSSR steck 1967 in einer Wirtschaftskrise.
+- Der Reformflügel der KPČ dem auch Alexander Dubček angehört macht Novotni dafür verantwortlich und fordern Reformen.
+- Ende 1967 wird Novotni auch dem neuen Kremel Cheff Breschnew unbeliebt. 
+- Im Januar 1968 wird er auf Wunsch des Kremels als Staatscheff abgesetzt. Alexander Dubček wird daraufhin am im Januar 1968 sein nachfolger.
+- Dubček geht als Reformer vor und möchte die ČSSR im rahmen des Sozialismus liberalisieren und Emanzipieren. Auch Sozialismus mit menschlichem Antlitz genannt.
+-  Mit dem Aktionsprogramm im April 1968 werden Grundrechte anerkannt (Meinungsfreiheit,  Versammlungsfreiheit, etc.) die Pressezensur aufgehoben und die internationale Reisefreiheit genemigt.
+- Dem Kremel geht das Aktionsprogramm zu Weit und stellt der KPČ mitte Juli 1968 ein Ultimatum die Reformen zurück zu ziehen, damit sich das beispiel der ČSSR nicht weiter ausbreitet.
+- Die KPČ geht dieser aufforderung nicht nach.
+- Am 21. August 1968 reagiert die Führung in Moskau auf das nicht nachkommen der Forderungen mit der Operation Donau, der militärichen Besetzung der ČSSR.
+- Mit über 500.000 Soldaten ist dies die größte Militäroperation in Europa seit dem Zweiten Weltkrieg. 
+- Es kommt zu Zwischenfällen gegen friedliche Demonstranten mit mehren dutzenden von Toten und hunderten von Verletzten. (Um den Vormarsch der Einheiten zu verzögern wurden Straßenschilder zu "Dubček-Straße umbenannt")
+- Die Führung in Moskau drängt Dubček zum Rücktritt und die Reformen zurück zu nehmen. 
+- Im April 1969 wurde Gustav Husák Alexander Dubčeks nachfolger und mit ihm ein weiterer Konservativer. 
 
 
 
